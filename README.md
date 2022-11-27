@@ -29,4 +29,4 @@ played a decade ago ;)
 
 # Installation
 
-    go install -v github.com/marete/rhythmbox-db-to-playlist
+    go install -v github.com/marete/rhythmbox-db-to-playlist@latest
